@@ -14,14 +14,15 @@ El nombre de la aplicación es: El_Grinch
 
 Objetivo
 ---
-Presionar las imagenes para escuchar audios graciosos del Grinch.
+Distraer y divertir con sonidos graciosos del Grinch.
 
 Caracteristicas
 ---
-* Sonido.
+* Cuenta con splashscream
+* Botones con diferentes sonidos
+* Diferentes layout
 * Cada imagen cuenta con un sonido diferente.
-* Cada button tambien cuenta con sonido.
-
+* Textview con sonido
 
 Wireframes
 ---
@@ -53,7 +54,7 @@ Aca te muestro cual es el funcionamiento de mi aplicación a grandes rasgos.
     <center>
         <table border="0">
             <tr>
-                <td><img src="src=/img/demo,gif" width="250"></td>
+                <td><img src="src=/img/demo.gif" width="250"></td>
                 <td></td>
             </tr>
         </table>
